@@ -21,6 +21,11 @@
     "test:all": "ember try:each"
   },
   "dependencies": {
+    "@novnc/novnc": "^1.0.0",
+    "broccoli-concat": "^3.7.3",
+    "broccoli-funnel": "^2.0.2",
+    "broccoli-merge-trees": "^3.0.2",
+    "broccoli-string-replace": "^0.1.2",
     "ember-cli-babel": "^7.1.2"
   },
   "devDependencies": {
