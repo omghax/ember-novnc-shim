@@ -1,16 +1,18 @@
 {
   "name": "ember-novnc-shim",
   "version": "0.1.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "Ember shim for noVNC",
   "keywords": [
-    "ember-addon"
+    "ember-addon",
+    "novnc",
+    "vnc"
   ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/omghax/ember-novnc-shim.git"
   },
   "license": "MIT",
-  "author": "",
+  "author": "Dray Lacy <dray@envylabs.com> (https://github.com/omghax)",
   "directories": {
     "doc": "doc",
     "test": "tests"
