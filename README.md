@@ -1,6 +1,7 @@
 # ember-novnc-shim
 
 [![Build Status](https://travis-ci.org/omghax/ember-novnc-shim.svg?branch=master)](https://travis-ci.org/omghax/ember-novnc-shim)
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 [![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=omghax/ember-novnc-shim)](https://dependabot.com)
 
 Ember addon which allows you to import [noVNC](https://github.com/novnc/noVNC) into your app.
