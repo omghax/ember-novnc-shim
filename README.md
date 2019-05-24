@@ -10,6 +10,7 @@ Ember addon which allows you to import [noVNC](https://github.com/novnc/noVNC) i
 
 - Ember.js v2.18 or above
 - Ember CLI v2.13 or above
+- Node.js v8 or above
 
 ## Installation
 
