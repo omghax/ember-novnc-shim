@@ -1003,9 +1003,9 @@
   integrity sha512-shAmDyaQC4H92APFoIaVDHCx5bStIocgvbwQyxPRrbUY20V1EYTbSDchWbuwlMG3V17cprZhA6+78JfB+3DTPw==
 
 "@novnc/novnc@^1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@novnc/novnc/-/novnc-1.0.0.tgz#76b0e89e6f8738ca8154195baf5b8e6a80bc9105"
-  integrity sha1-drDonm+HOMqBVBlbr1uOaoC8kQU=
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/@novnc/novnc/-/novnc-1.1.0.tgz#3827b623e9e201ee1e1c8a61d107c51cbfaeb871"
+  integrity sha512-W90Q79EuCYT++39aT/VKGyk7hUt2gPN3rN+ifPUvY4rdjgZlfwdCg9q7yzj04hke/zgdHsbXFfyFijBvrRuU5A==
 
 "@simple-dom/interface@1.4.0":
   version "1.4.0"
